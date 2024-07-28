@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Blockchain Enthusiast</h3>
+<h3 align="center">Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampatel2305&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampatel2305" /> </p>
 
