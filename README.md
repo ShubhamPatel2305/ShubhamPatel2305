@@ -1,6 +1,7 @@
  ### Hi there 👋
 
 - 🔭 I'm a Computer Science Student and a Pro Googler...
+- 🏆 Infosys Springboard 5.0 internship Angular Fullstack developer
 - 🏆 HTF 3.0 #7/140
 - 🌐 My [Tech Portfolio](https://www.imabhisht.com)!
 - 🌱 All my Technical Project are here: [Github Repo's](https://github.com/ShubhamPatel2305?tab=repositories).
